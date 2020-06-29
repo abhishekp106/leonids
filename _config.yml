@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Abhishek Pandya
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: https://renyuanz.github.io/leonids
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Abhishek Pandya
   avatar: leonids-logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
