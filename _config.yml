@@ -6,7 +6,7 @@
 title: Abhishek Pandya
 email:
 description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids
+url: https://abhishekp106.github.io/leonids
 keywords: ["blog", "jekyll"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          America/New_York
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -36,7 +36,7 @@ owner:
   name: Abhishek Pandya
   avatar: leonids-logo.png
   job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  bio: "A collection of posts and thoughts."
   email:
   disqus-shortname:
   twitter: #username
